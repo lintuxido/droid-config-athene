@@ -58,6 +58,7 @@
 /lib/systemd/system/bluetooth.service.wants/droid-hcismd-up.service
 /lib/systemd/system/adbd.service
 /lib/systemd/system/droid-hal-init.service
+/lib/systemd/system/multi-user.target.wants/wlan-module-load.service
 /lib/systemd/system/adbd-prepare.service
 /lib/systemd/system/droid-late-start.service
 /lib/systemd/system/actdead.target.wants/droid-hal-init.service
